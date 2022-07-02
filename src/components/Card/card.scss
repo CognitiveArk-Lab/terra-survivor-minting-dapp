@@ -1,0 +1,18 @@
+.card {
+  width: 213px;
+  height: 171px;
+  box-shadow: 0px 4px 24px #171516;
+  backdrop-filter: blur(200px);
+  border-radius: 10px;
+  background: linear-gradient(105.79deg, rgba(124, 215, 214, 0.096) -9.83%, rgba(124, 215, 214, 0.04) 29.26%, rgba(124, 215, 214, 0.04) 87.38%);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'VALORANT';
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  transition-duration: 0.1s;
+}
